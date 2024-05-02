@@ -4,12 +4,13 @@ git and github tutorial
 ## preparation
 
 ### how to setup git on windows
+
 * Install git on your windows machine (if is not installed already).
   You may invoke in your Windows Power Shell the following command
   (assuming your default location is U:
   
   ```bash
-  PS U:\> winget install --id Git.Git -e --source winget
+  U:\> winget install --id Git.Git -e --source winget
   ```
 
 * Open "git GUI" and go to the menu "Help/show SSH key"
