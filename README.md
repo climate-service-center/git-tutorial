@@ -15,4 +15,5 @@ git and github tutorial
 4. Copy the content of the public ssh key just recently created.
 5. Go to Github in your web browser and in the settings menu go to "SSH and GPG keys" section. Clic on "New ssh key" and paste your public ssh key.
 6. Open a "git bash" and test your git connection by invoking the following command:
+   
    $ ssh -T git@github.com
