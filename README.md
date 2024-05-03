@@ -80,7 +80,7 @@ Here is a short list of publications by GERICS employees which might be good exa
 ## Further fun reading
 
 * [The Turing Way Handbook](https://the-turing-way.netlify.app)
-* https://doi.org/10.1038/d41586-018-02741-4
+* [Does your code stand up to scrutiny?](https://doi.org/10.1038/d41586-018-02741-4)
 * [Nature Checklist](http://www.nature.com/documents/GuidelinesCodePublication.pdf)
 * [AGU Data and Software Guide](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors)
 * [Open up to Open Science](https://issues.org/opening-up-open-science-gentemann-erdmann-kroeger/)
