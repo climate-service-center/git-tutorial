@@ -8,7 +8,7 @@ This should be a very basic guide on how to publish your codes, software and dat
 
 ## Motivation
 
-Most of our publications and products are based on data processing and analysis. Today, good scientific practice also includes [**reproducibility and reusability**](https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_5005567) of codes and data as key and they are central concerns of the [Helmholtz Open Science Initiative](https://os.helmholtz.de/). In fact, making your research codes and data tidy, reproducible and reusable is nowadays much easier and fun than most scientists think and it can considerably improve your ability to cooperate with your peers and colleagues. It should be more a kind of attitude towards working transparently than simply a tedious task.
+Most of our publications and products are based on data processing and analysis. Good scientific practice also includes [**reproducibility and reusability**](https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_5005567) of codes and data as key and they are central concerns of the [Helmholtz Open Science Initiative](https://os.helmholtz.de/). In fact, making your research codes and data tidy, reproducible and reusable is nowadays much easier and fun than most scientists think and it can considerably improve your ability to cooperate with your peers and colleagues. It should be more a kind of attitude towards working transparently than simply a tedious task.
 
 ![grafik](https://github.com/climate-service-center/git-tutorial/assets/5659125/1209b650-0a33-4741-af97-737a0ddc391f)
 
