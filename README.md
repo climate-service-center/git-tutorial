@@ -1,4 +1,6 @@
-# Git-tutorial
+<img src="https://mirrors.creativecommons.org/presskit/logos/cc.logo.large.png" width="150" align="right"/>
+
+# Git tutorial
 
 **Collaborate, communicate and publish code on github.**
 
