@@ -29,10 +29,10 @@ If you are a Windows user with no experience in git or using the terminal, we re
   ```
   This should install all software of the [git for Windows](https://gitforwindows.org/) tool set.
 * Open "git GUI" and go to the menu "Help/show SSH key"
-* If not key is found, then clic on "Generyte key" to generate a new ssh key.
-* Copy the content of the public ssh key just recently created.
-* Go to Github in your web browser and in the settings menu go to "SSH and GPG keys" section. Clic on "New ssh key" and paste your public ssh key.
-* Open a "git bash" and test your git connection by invoking the following command:
+* If not key is found, then click on "Generate key" to generate a new ssh key. If you get an error concerning missing `.ssh` folders, you might have to create that yourself, e.g., `mkdir .ssh`.
+* Copy the content of the public ssh key.
+* Go to Github in your web browser and in the settings menu go to [SSH and GPG keys section](https://github.com/settings/keys). Click on "New ssh key" and paste your public ssh key.
+* Open a "git bash" terminal and test your git connection by invoking the following command:
   ```bash
   ssh -T git@github.com
   ```
