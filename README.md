@@ -14,10 +14,7 @@ Most of our publications and products are based on data processing and analysis.
 
 ## Preparation
 
-To preare for the tutorial, you should check if you have git installed and can use it in a terminal. If you have no git installation, you can follow
-the instructions of the [official documentation](https://git-scm.com/downloads). If you want to push to github (or a gitlab instance), you have to create and register an ssh key with github/gitlab.
-For this, use and existing or create a new ssh key on your local computer and store the public key, e.g., in [your github profile settings](https://github.com/settings/keys). For more detailed instructions,
-please also follow, e.g., the [official github documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh).
+To preare for the tutorial, you should check if you have git installed and can use it in a terminal. If you have no git installation, you can follow the instructions of the [official documentation](https://git-scm.com/downloads). If you want to push to github (or a gitlab instance), you have to create and register an ssh key with github/gitlab. For this, use and existing or create a new ssh key on your local computer and store the public key, e.g., in [your github profile settings](https://github.com/settings/keys) and/or your [gitlab account](https://docs.gitlab.com/ee/user/ssh.html#add-an-ssh-key-to-your-gitlab-account). For more detailed instructions, please also follow, e.g., the [official github documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh).
 
 If you are a Windows user with no experience in git or using the terminal, we recommend the following based on own experience:
 
