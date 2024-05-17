@@ -14,9 +14,9 @@ Most of our publications and products are based on data processing and analysis.
 
 ## Preparation
 
-To preare for the tutorial, you should check if you have git installed and can use it in a terminal. If you have no git installation, you can follow the instructions of the [official documentation](https://git-scm.com/downloads). You will also need to use a platform for sharing your code, e.g., make sure you have a github account you can access or use your gitlab account at the [Helmholtz codebase](https://codebase.helmholtz.cloud/). For the Helmholtz codebase, you can use any Helmholtz account to login via the [Helmholtz AAI](https://hifis.net/aai). You will also need to be able to *push* to github/gitlab for which you have to create and register an ssh key with github/gitlab. For this, use and existing or create a new ssh key on your local computer and store the public key, e.g., in [your github profile settings](https://github.com/settings/keys) and/or your [gitlab account](https://docs.gitlab.com/ee/user/ssh.html#add-an-ssh-key-to-your-gitlab-account). For more detailed instructions, please also follow, e.g., the [official github documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh).
+To preare for the tutorial, you should check if you have git installed and can use it in a terminal. If you have no git installation, you can follow the instructions of the [official documentation](https://git-scm.com/downloads). You will also need to use a platform for sharing your code, e.g., make sure you have a github account you can access or use your gitlab account at the [Helmholtz codebase](https://codebase.helmholtz.cloud/). For the Helmholtz codebase, you can use any Helmholtz account to login via the [Helmholtz AAI](https://hifis.net/aai). You will also need to be able to *push* to github/gitlab for which you have to create and register an ssh key with github/gitlab. For this, use an existing or create a new ssh key on your local computer and store the public key, e.g., in [your github profile settings](https://github.com/settings/keys) and/or your [gitlab account](https://docs.gitlab.com/ee/user/ssh.html#add-an-ssh-key-to-your-gitlab-account). For more detailed instructions, please also follow, e.g., the [official github documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh).
 
-If you are a Windows user with no experience in git or using the terminal, we recommend the following based on own experience:
+If you are a Windows user with no experience in git or using the terminal, we recommend the following based:
 
 ### how to setup git on windows
 
@@ -26,10 +26,10 @@ If you are a Windows user with no experience in git or using the terminal, we re
   ```
   This should install all software of the [git for Windows](https://gitforwindows.org/) tool set.
 * Open "git GUI" and go to the menu "Help/show SSH key"
-* If not key is found, then click on "Generate key" to generate a new ssh key. If you get an error concerning missing `.ssh` folders, you might have to create that yourself, e.g., `mkdir .ssh`.
+* If no key is found, then click on "Generate key" to generate a new ssh key. If you get an error concerning missing `.ssh` folders, you might have to create that yourself, e.g., `mkdir .ssh`.
 * Copy the content of the public ssh key.
-* Go to Github in your web browser and in the settings menu go to [SSH and GPG keys section](https://github.com/settings/keys). Click on "New ssh key" and paste your public ssh key.
-* Open a "git bash" terminal and test your git connection by invoking the following command:
+* Go to github/gitlab in your web browser and in the settings menu go to [SSH and GPG keys section](https://github.com/settings/keys). Click on "New ssh key" and paste your public ssh key.
+* Open a "git bash" terminal and test your git connection by invoking, e.g., the following command:
   ```bash
   ssh -T git@github.com
   ```
