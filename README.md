@@ -18,7 +18,7 @@ To preare for the tutorial, you should check if you have git installed and can u
 
 If you are a Windows user with no experience in git or using the terminal, we recommend the following based:
 
-### how to setup git on windows
+### How to setup git on windows
 
 * Install git on your windows machine (if is not installed already). You may invoke in your Windows Power Shell the following command (assuming your default location is U:
   ```bash
