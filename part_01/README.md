@@ -7,5 +7,5 @@
 * Check the status of your local repository using `git status`.
 * Add a file you want to share or modify an existing one.
 * Check again the status of your local repository using `git status` and check what happened.
-* Commit your local changes using `git commit`
-* Push your local commits to your remote repository on github/gitlab using `git push`
+* Commit your local changes using `git commit`.
+* Push your local commits to your remote repository on github/gitlab using `git push`.
