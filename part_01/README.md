@@ -2,7 +2,7 @@
 
 ## Tasks
 
-* Create an empty repository on github or in your personal gitlab account.
+* Create an empty repository on github or in your personal gitlab account using the web interface.
 * Clone the new repository to your local computer using `git clone`.
 * Check the status of your local repository using `git status`.
 * Add a file you want to share or modify an existing one.
