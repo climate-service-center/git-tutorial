@@ -68,11 +68,12 @@ You can use [howfairis](https://github.com/fair-software/howfairis) to automatic
 
 Here is a short list of publications by GERICS employees which might be good examples for code and data publication:
 
-* [Principles](https://github.com/KatharinaBuelow/cmip5_cmip6_euro-cordex-plotting-routines)
-* [LEAFlood](https://github.com/TWuebbelmann/LEAFlood)
-* [Wind stilling](https://github.com/jwohland/stilling_MPI-GE)
+* [Principles analysis](https://github.com/KatharinaBuelow/cmip5_cmip6_euro-cordex-plotting-routines)
+* [LEAFlood model](https://github.com/TWuebbelmann/LEAFlood)
+* [Kliwist modelchain](https://github.com/jwohland/kliwist_modelchain)
 * [Irrigation analysis](https://github.com/ChristinaAsmus/irrigation_param_analysis)
-* [pyremo](https://github.com/remo-rcm/pyremo)
+* [pyremo package](https://github.com/remo-rcm/pyremo)
+* [py-cordex](https://github.com/euro-cordex/py-cordex)
 
 ## Further fun reading
 
