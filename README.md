@@ -68,6 +68,7 @@ You can use [howfairis](https://github.com/fair-software/howfairis) to automatic
 
 Here is a short list of publications by GERICS employees which might be good examples for code and data publication:
 
+* [Climate Action Sheet "Stadtwald Karlsruhe im Klimawandel"](https://github.com/climate-service-center/climate-action-sheet-forestry)
 * [Principles analysis](https://github.com/KatharinaBuelow/cmip5_cmip6_euro-cordex-plotting-routines)
 * [LEAFlood model](https://github.com/TWuebbelmann/LEAFlood)
 * [Kliwist modelchain](https://github.com/jwohland/kliwist_modelchain)
