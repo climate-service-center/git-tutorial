@@ -14,5 +14,5 @@ on a repository. If you want to know more details, please check:
 * Check using `git status`.
 * Add a feature, e.g., add a source code file or change an existing one.
 * Commit your changes using `git commit`
-* Push your changes to a remote branch in your fork using `git push`.
-* Create a pull request on github and write a nice message to the maintainers. 
+* Push the changes from your branch to a remote branch in your fork using `git push`.
+* [Create a pull request from your fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) on github and write a nice message to the maintainers. 
