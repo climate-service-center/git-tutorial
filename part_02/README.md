@@ -1,12 +1,14 @@
 # Part 2 - Working together
 
 Everybody should be setup and comfortable with creating their own repositories on github and gitlab and make commits. In part 2, we want to actually work together
-on a repository.
+on a repository. If you want to know more details, please check:
+
+* [Collaborating with pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests)
 
 ## Tasks
 
-* Fork the main repository for this tutorial.
-* `git pull` the fork to your local computer.
+* [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository) the main repository for this tutorial.
+* [Clone the fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#cloning-your-forked-repository) to your local computer.
 * Create a branch using `git branch -b`.
 * Check using `git status`.
 * Add a feature, e.g., add a source code file or change an existing one.
