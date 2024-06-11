@@ -4,6 +4,7 @@ Everybody should be setup and comfortable with creating their own repositories o
 on a repository. If you want to know more details, please check:
 
 * [Collaborating with pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests)
+* [Interactive course: Introduction to github](https://github.com/skills/introduction-to-github)
 
 ## Tasks
 
