@@ -86,3 +86,4 @@ Here is a short list of publications by GERICS employees which might be good exa
 * [Scientific collaboration and project management in github](https://rabernat.medium.com/scientific-collaboration-and-project-management-in-github-d74f2255ae5f)
 * Barnes, N. Publish your computer code: it is good enough. Nature 467, 753 (2010). https://doi.org/10.1038/467753a
 * [UNESCO recommendations on open science](https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en)
+* [Free git course](https://skills.github.com)
