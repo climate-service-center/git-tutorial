@@ -11,7 +11,7 @@ on a repository. If you want to know more details, please check:
 
 * [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository) the main repository for this tutorial.
 * [Clone the fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#cloning-your-forked-repository) to your local computer.
-* Create a branch using `git checkout -b`.
+* Create and checkout a new branch using `git checkout -b my-cool-feature`.
 * Check using `git status`.
 * Add a feature, e.g., add a source code file or change an existing one.
 * Commit your changes using `git commit`
