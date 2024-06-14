@@ -16,4 +16,5 @@ on a repository. If you want to know more details, please check:
 * Add a feature, e.g., add a source code file or change an existing one.
 * Commit your changes using `git commit`
 * Push the changes from your branch to a remote branch in your fork using `git push origin my-cool-feature`.
-* [Create a pull request from your fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) on github and write a nice message to the maintainers. 
+* [Create a pull request from your fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) on github and write a nice message to the maintainers.
+* When the pull request was accepted, [sync your fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-from-the-web-ui)!
