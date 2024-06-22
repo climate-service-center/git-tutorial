@@ -4,7 +4,7 @@
 
 **Collaborate, communicate and publish code using git and github/gitlab.**
 
-This should be a very basic guide on how to publish your codes, software and data to make it available to a broader public or just your colleagues next door. It's more or less a compilation of existing resources on this topic. Note that this guide does not claim to be finished, the whole truth or perfect at all. If you have experience with writing scientific codes, you might find this guide incomplete. If you usually write code only for your own without sharing it, you might be overwhelmed. However, to cover some common ground, we want to raise awareness and focus your attention on your code being an integral part of your scientific work and publication.
+This should be a very basic guide on how to publish your codes, software and data to make it available to a broader public or just your colleagues next door (Read [here](https://sparceurope.org/what-we-do/open-access/oa-benefits/) why YOU should do it!).Be aware: it's more or less a compilation of existing resources on this topic! Note that this guide does not claim to be finished, the whole truth or perfect at all. If you have experience with writing scientific codes, you might find this guide incomplete. If you usually write code only for your own without sharing it, you might be overwhelmed. However, to cover some common ground, we want to raise awareness and focus your attention on your code being an integral part of your scientific work and publication.
 
 ## Motivation
 
