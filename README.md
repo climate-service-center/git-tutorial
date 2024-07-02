@@ -58,7 +58,7 @@ If you publish your code, you should be aware of some basic technical requiremen
 
 * A publically accessible project repository.
 * A `README`, preferrably in markdown format that should include some information on your project, further links and basic technical documentation.
-* [License](https://www.astrobetter.com/blog/2014/03/10/the-whys-and-hows-of-licensing-scientific-code/) (check if you have used GPL licensed libraries!)
+* [License](https://www.astrobetter.com/blog/2014/03/10/the-whys-and-hows-of-licensing-scientific-code/) (check if you have used GPL licensed libraries!) See also [here](https://choosealicense.com/) and [here](https://chooser-beta.creativecommons.org/)!
 * `environment.yml` or `requirements.txt` file that defines software dependecies.
 * DOI, e.g., using [`zenodo`](https://zenodo.org/), works well with [github](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content).
 
