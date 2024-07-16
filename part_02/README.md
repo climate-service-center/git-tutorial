@@ -9,7 +9,7 @@ on a repository. If you want to know more details, please check:
 
 ## Tasks
 
-* [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository) the main repository for this tutorial to your personal github account or [create a fork in gitlab](https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html#create-a-fork).
+* [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository) the [demo repository](https://github.com/climate-service-center/say-your-name) for this tutorial to your personal github account or [create a fork in gitlab](https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html#create-a-fork).
 * [Clone the fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#cloning-your-forked-repository) to your local computer.
 * Create and checkout a new branch using `git checkout -b my-cool-feature`.
 * Check using `git status`.
