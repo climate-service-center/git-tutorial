@@ -1,6 +1,6 @@
 # Part 3 - Create your own science project!
 
-Part three is about ...
+Part three is about creating and hosting your science project on Github.
 
 ## Tasks
 
