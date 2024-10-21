@@ -1,6 +1,6 @@
 # Part 3 - Create your own science project!
 
-Part three is about creating and hosting your science project on Github. We have created a simple structure for a science project in the form of a python package that provides a function `add_one`. You can use this as a starting point, build upon it and add more functions! For more information, please also check out the official [packaging user guide](https://packaging.python.org)! But for now, let's start simple:
+Part three is about creating and hosting your science project on Github. We have created a simple structure for a science project in the form of a python package that provides a module `main.py` with the function `add_one`. You can use this as a starting point, build upon it and add more modules and functions! For more information, please also check out the official [packaging user guide](https://packaging.python.org)! But for now, let's start simple:
 
 ## Tasks
 
@@ -16,10 +16,12 @@ Part three is about creating and hosting your science project on Github. We have
 * Clone the package to your computer and install it in a new environment in [editable mode](https://setuptools.pypa.io/en/latest/userguide/development_mode.html):
   * In your package directory (where the `pyproject.toml` file lies), try `pip install -e .`
   * This will also install all requirements you define in the `requirements.txt` file! Check it out!
-* Now your project is ready to be used in a python script, e.g., open your IDE or a python interpreter and try:
+* Now your project is ready to be used in a python script, e.g., open your IDE or a python interpreter and try using the module from your project:
   ```python
-  from <name_of_your_project> import add_one
-  add_one(1)
+  from <name_of_your_project> import main
+  main.add_one(1)
   ```
+  What is the advantage of using the function `add_one` this way, e.g., instead of defining it directly in your script?
+* Think about the differences between "scripting", "modules" and "packaging".
 * Also make sure, that all tests run successfully, e.g., simply run `pytest` in your project directory! What happens when you run the tests?
-* Add a new function to your code directory in the `main.py` file that multiplies 2 numbers and add a test!
+* Add a new function to your code directory in the `main.py` module file that multiplies 2 numbers and add a test!
