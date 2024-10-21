@@ -12,4 +12,7 @@ Part three is about creating and hosting your science project on Github.
 * Rename the folder `science_project` to the name of your own project.
 * In the file `pyproject.toml`, rename the project name and setuptools packages entry according to your project.
   * Update the `name = "science-project"`.
-  * The `packages` entry has to be the name of the subfolder you should have already renamed. 
+  * The `packages` entry has to be the name of the subfolder you should have already renamed.
+* Clone the package to your computer and install it in a new environment in [editable mode](https://setuptools.pypa.io/en/latest/userguide/development_mode.html):
+  * In your package directory (where the `pyproject.toml` file lies), try `pip install -e .`
+  * This will also install all requirements you define in the `requirements.txt` file! Check it out!
